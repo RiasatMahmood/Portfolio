@@ -84,4 +84,27 @@ img{
 
 #foot {
     display: flex;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    background-color: goldenrod;
+    height: 100px;
+}
+
+.ftb {
+    width: 100px;
+    height: 50px;
+    margin-right: 100px;
+}
+
+.ftl {
+    font-size: 120%;
 }
